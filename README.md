@@ -1,7 +1,11 @@
-# Skiovox Helper -- the helper extension for the Skiovox exploit
-
-- Fixed most shortcut functionality
-- Allows for resizing and dragging of windows
-- Makes it easier to add Google accounts and use the Web Store within the exploit
-
-Installation steps can be seen at the "stage 3" section on [skiovox.com](https://skiovox.com)
+# i-hate-frontend  
+1. download binary
+2. go to [chrome://extensions](chrome://extensions)
+3. turn on developer mode
+4. load unpacked
+5. extract the zip
+6. open folder
+7. set the keys
+8. ur done good job
+  
+frontend sucks sandro do it for me pls  
